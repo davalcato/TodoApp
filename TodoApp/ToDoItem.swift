@@ -2,8 +2,8 @@
 //  ToDoItem.swift
 //  TodoApp
 //
-//  Created by Brian Advent on 10.12.17.
-//  Copyright © 2017 Brian Advent. All rights reserved.
+//  Created by Daval Cato on 2/11/18.
+//  Copyright © 2018 Daval Cato. All rights reserved.
 //
 
 import Foundation

@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "597e3c009245fac2148eaff1b36c4c79"
+build_time: [1518664661, 311010000]
+inputs:
+  "/Users/davalcato/Desktop/TodoApp/TodoApp/ContainerViewController.swift": [1518487074, 0]
+  "/Users/davalcato/Desktop/TodoApp/TodoApp/ToDoTableTableViewController.swift": [1518659153, 0]
+  "/Users/davalcato/Desktop/TodoApp/TodoApp/ToDoItem.swift": [1518489151, 0]
+  "/Users/davalcato/Desktop/TodoApp/TodoApp/ToDoTableViewCell.swift": [1518663772, 0]
+  "/Users/davalcato/Desktop/TodoApp/TodoApp/DataManger.swift": [1518489152, 0]
+  "/Users/davalcato/Desktop/TodoApp/TodoApp/AppDelegate.swift": [1518392332, 0]
