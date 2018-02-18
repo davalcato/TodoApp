@@ -1,0 +1,593 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ContainerViewController"
+provides-nominal:
+- "7TodoApp23ContainerViewControllerC"
+provides-member:
+- ["7TodoApp23ContainerViewControllerC", ""]
+provides-dynamic-lookup:
+- "addButton"
+- "addNewTodoItem"
+- "connectionButton"
+- "containerView"
+- "didReceiveMemoryWarning"
+- "prepare"
+- "triggerConnection"
+- "viewDidLoad"
+depends-top-level:
+- !private "/"
+- !private "=="
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "ContainerViewController"
+- !private "StringLiteralType"
+- "ToDoTableViewController"
+- "UIButton"
+- !private "UINavigationController"
+- "UIStoryboardSegue"
+- "UIView"
+- "UIViewController"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["s23BidirectionalCollectionP", "first"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["SC6CGRectV", "size"]
+- !private ["SC6CGSizeV", "width"]
+- !private ["s7CVarArgP", "addButton"]
+- !private ["s7CVarArgP", "addNewTodo"]
+- !private ["s7CVarArgP", "childViewControllers"]
+- !private ["s7CVarArgP", "connectionButton"]
+- !private ["s7CVarArgP", "connectionButtonReference"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "identifier"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "showConnectivityAction"]
+- !private ["s7CVarArgP", "todoTableViewController"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "first"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- ["7TodoApp23ContainerViewControllerC", "ToDoTableViewController"]
+- ["7TodoApp23ContainerViewControllerC", "UIButton"]
+- !private ["7TodoApp23ContainerViewControllerC", "UINavigationController"]
+- ["7TodoApp23ContainerViewControllerC", "UIStoryboardSegue"]
+- ["7TodoApp23ContainerViewControllerC", "UIView"]
+- ["7TodoApp23ContainerViewControllerC", "addButton"]
+- ["7TodoApp23ContainerViewControllerC", "addNewTodoItem"]
+- ["7TodoApp23ContainerViewControllerC", "connectionButton"]
+- ["7TodoApp23ContainerViewControllerC", "containerView"]
+- ["7TodoApp23ContainerViewControllerC", "deinit"]
+- ["7TodoApp23ContainerViewControllerC", "didReceiveMemoryWarning"]
+- ["7TodoApp23ContainerViewControllerC", "init"]
+- ["7TodoApp23ContainerViewControllerC", "prepare"]
+- ["7TodoApp23ContainerViewControllerC", "todoTableViewController"]
+- ["7TodoApp23ContainerViewControllerC", "triggerConnection"]
+- ["7TodoApp23ContainerViewControllerC", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "addButton"]
+- !private ["s28CustomDebugStringConvertibleP", "addNewTodo"]
+- !private ["s28CustomDebugStringConvertibleP", "childViewControllers"]
+- !private ["s28CustomDebugStringConvertibleP", "connectionButton"]
+- !private ["s28CustomDebugStringConvertibleP", "connectionButtonReference"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "identifier"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "showConnectivityAction"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "todoTableViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "size"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addButton"]
+- !private ["s23CustomStringConvertibleP", "addNewTodo"]
+- !private ["s23CustomStringConvertibleP", "childViewControllers"]
+- !private ["s23CustomStringConvertibleP", "connectionButton"]
+- !private ["s23CustomStringConvertibleP", "connectionButtonReference"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "showConnectivityAction"]
+- !private ["s23CustomStringConvertibleP", "todoTableViewController"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "first"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "size"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "first"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "size"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addButton"]
+- !private ["s9EquatableP", "addNewTodo"]
+- !private ["s9EquatableP", "childViewControllers"]
+- !private ["s9EquatableP", "connectionButton"]
+- !private ["s9EquatableP", "connectionButtonReference"]
+- !private ["s9EquatableP", "cornerRadius"]
+- !private ["s9EquatableP", "destination"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "identifier"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "layer"]
+- !private ["s9EquatableP", "showConnectivityAction"]
+- !private ["s9EquatableP", "size"]
+- !private ["s9EquatableP", "todoTableViewController"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s9EquatableP", "width"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addButton"]
+- !private ["s8HashableP", "addNewTodo"]
+- !private ["s8HashableP", "childViewControllers"]
+- !private ["s8HashableP", "connectionButton"]
+- !private ["s8HashableP", "connectionButtonReference"]
+- !private ["s8HashableP", "cornerRadius"]
+- !private ["s8HashableP", "destination"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "frame"]
+- !private ["s8HashableP", "identifier"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "layer"]
+- !private ["s8HashableP", "showConnectivityAction"]
+- !private ["s8HashableP", "todoTableViewController"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["So31MCBrowserViewControllerDelegateP", "addNewTodo"]
+- !private ["So31MCBrowserViewControllerDelegateP", "connectionButtonReference"]
+- !private ["So31MCBrowserViewControllerDelegateP", "showConnectivityAction"]
+- !private ["So17MCSessionDelegateP", "addNewTodo"]
+- !private ["So17MCSessionDelegateP", "connectionButtonReference"]
+- !private ["So17MCSessionDelegateP", "showConnectivityAction"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "first"]
+- !private ["So8NSCodingP", "addButton"]
+- !private ["So8NSCodingP", "addNewTodo"]
+- !private ["So8NSCodingP", "childViewControllers"]
+- !private ["So8NSCodingP", "connectionButton"]
+- !private ["So8NSCodingP", "connectionButtonReference"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "showConnectivityAction"]
+- !private ["So8NSCodingP", "todoTableViewController"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "addButton"]
+- !private ["So26NSExtensionRequestHandlingP", "addNewTodo"]
+- !private ["So26NSExtensionRequestHandlingP", "childViewControllers"]
+- !private ["So26NSExtensionRequestHandlingP", "connectionButton"]
+- !private ["So26NSExtensionRequestHandlingP", "connectionButtonReference"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "showConnectivityAction"]
+- !private ["So26NSExtensionRequestHandlingP", "todoTableViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "ToDoTableViewController"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "UINavigationController"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "addButton"]
+- !private ["So8NSObjectC", "addNewTodo"]
+- ["So8NSObjectC", "addNewTodoItem"]
+- !private ["So8NSObjectC", "childViewControllers"]
+- ["So8NSObjectC", "connectionButton"]
+- !private ["So8NSObjectC", "connectionButtonReference"]
+- ["So8NSObjectC", "containerView"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "destination"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "identifier"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "prepare"]
+- !private ["So8NSObjectC", "showConnectivityAction"]
+- ["So8NSObjectC", "todoTableViewController"]
+- ["So8NSObjectC", "triggerConnection"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "addButton"]
+- !private ["So16NSObjectProtocolP", "addNewTodo"]
+- !private ["So16NSObjectProtocolP", "childViewControllers"]
+- !private ["So16NSObjectProtocolP", "connectionButton"]
+- !private ["So16NSObjectProtocolP", "connectionButtonReference"]
+- !private ["So16NSObjectProtocolP", "cornerRadius"]
+- !private ["So16NSObjectProtocolP", "destination"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- !private ["So16NSObjectProtocolP", "identifier"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "layer"]
+- !private ["So16NSObjectProtocolP", "showConnectivityAction"]
+- !private ["So16NSObjectProtocolP", "todoTableViewController"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "first"]
+- !private ["s26RangeReplaceableCollectionP", "first"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "first"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["7TodoApp23ToDoTableViewControllerC", "addNewTodo"]
+- !private ["7TodoApp23ToDoTableViewControllerC", "connectionButtonReference"]
+- !private ["7TodoApp23ToDoTableViewControllerC", "showConnectivityAction"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "frame"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So21UIAppearanceContainerP", "addButton"]
+- !private ["So21UIAppearanceContainerP", "addNewTodo"]
+- !private ["So21UIAppearanceContainerP", "childViewControllers"]
+- !private ["So21UIAppearanceContainerP", "connectionButton"]
+- !private ["So21UIAppearanceContainerP", "connectionButtonReference"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "showConnectivityAction"]
+- !private ["So21UIAppearanceContainerP", "todoTableViewController"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So8UIButtonC", "frame"]
+- !private ["So8UIButtonC", "layer"]
+- !private ["So18UIContentContainerP", "addButton"]
+- !private ["So18UIContentContainerP", "addNewTodo"]
+- !private ["So18UIContentContainerP", "childViewControllers"]
+- !private ["So18UIContentContainerP", "connectionButton"]
+- !private ["So18UIContentContainerP", "connectionButtonReference"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "showConnectivityAction"]
+- !private ["So18UIContentContainerP", "todoTableViewController"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So9UIControlC", "frame"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "addButton"]
+- !private ["So18UIFocusEnvironmentP", "addNewTodo"]
+- !private ["So18UIFocusEnvironmentP", "childViewControllers"]
+- !private ["So18UIFocusEnvironmentP", "connectionButton"]
+- !private ["So18UIFocusEnvironmentP", "connectionButtonReference"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "showConnectivityAction"]
+- !private ["So18UIFocusEnvironmentP", "todoTableViewController"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So22UINavigationControllerC", "childViewControllers"]
+- !private ["So30UIPasteConfigurationSupportingP", "addButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "addNewTodo"]
+- !private ["So30UIPasteConfigurationSupportingP", "childViewControllers"]
+- !private ["So30UIPasteConfigurationSupportingP", "connectionButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "connectionButtonReference"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "showConnectivityAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "todoTableViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "ToDoTableViewController"]
+- ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "UINavigationController"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "addButton"]
+- !private ["So11UIResponderC", "addNewTodo"]
+- ["So11UIResponderC", "addNewTodoItem"]
+- !private ["So11UIResponderC", "childViewControllers"]
+- ["So11UIResponderC", "connectionButton"]
+- !private ["So11UIResponderC", "connectionButtonReference"]
+- ["So11UIResponderC", "containerView"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "prepare"]
+- !private ["So11UIResponderC", "showConnectivityAction"]
+- ["So11UIResponderC", "todoTableViewController"]
+- ["So11UIResponderC", "triggerConnection"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "addButton"]
+- !private ["So30UIResponderStandardEditActionsP", "addNewTodo"]
+- !private ["So30UIResponderStandardEditActionsP", "childViewControllers"]
+- !private ["So30UIResponderStandardEditActionsP", "connectionButton"]
+- !private ["So30UIResponderStandardEditActionsP", "connectionButtonReference"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "showConnectivityAction"]
+- !private ["So30UIResponderStandardEditActionsP", "todoTableViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "addNewTodo"]
+- !private ["So20UIScrollViewDelegateP", "connectionButtonReference"]
+- !private ["So20UIScrollViewDelegateP", "showConnectivityAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "frame"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So16UIStateRestoringP", "addButton"]
+- !private ["So16UIStateRestoringP", "addNewTodo"]
+- !private ["So16UIStateRestoringP", "childViewControllers"]
+- !private ["So16UIStateRestoringP", "connectionButton"]
+- !private ["So16UIStateRestoringP", "connectionButtonReference"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "showConnectivityAction"]
+- !private ["So16UIStateRestoringP", "todoTableViewController"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- !private ["So17UIStoryboardSegueC", "identifier"]
+- !private ["So21UITableViewControllerC", "addNewTodo"]
+- !private ["So21UITableViewControllerC", "connectionButtonReference"]
+- !private ["So21UITableViewControllerC", "showConnectivityAction"]
+- !private ["So21UITableViewDataSourceP", "addNewTodo"]
+- !private ["So21UITableViewDataSourceP", "connectionButtonReference"]
+- !private ["So21UITableViewDataSourceP", "showConnectivityAction"]
+- !private ["So19UITableViewDelegateP", "addNewTodo"]
+- !private ["So19UITableViewDelegateP", "connectionButtonReference"]
+- !private ["So19UITableViewDelegateP", "showConnectivityAction"]
+- !private ["So18UITraitEnvironmentP", "addButton"]
+- !private ["So18UITraitEnvironmentP", "addNewTodo"]
+- !private ["So18UITraitEnvironmentP", "childViewControllers"]
+- !private ["So18UITraitEnvironmentP", "connectionButton"]
+- !private ["So18UITraitEnvironmentP", "connectionButtonReference"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "showConnectivityAction"]
+- !private ["So18UITraitEnvironmentP", "todoTableViewController"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "layer"]
+- ["So16UIViewControllerC", "ToDoTableViewController"]
+- ["So16UIViewControllerC", "UIButton"]
+- !private ["So16UIViewControllerC", "UINavigationController"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", "addButton"]
+- !private ["So16UIViewControllerC", "addNewTodo"]
+- ["So16UIViewControllerC", "addNewTodoItem"]
+- !private ["So16UIViewControllerC", "childViewControllers"]
+- ["So16UIViewControllerC", "connectionButton"]
+- !private ["So16UIViewControllerC", "connectionButtonReference"]
+- ["So16UIViewControllerC", "containerView"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "prepare"]
+- !private ["So16UIViewControllerC", "showConnectivityAction"]
+- ["So16UIViewControllerC", "todoTableViewController"]
+- ["So16UIViewControllerC", "triggerConnection"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s23_BidirectionalIndexableP", "first"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "first"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "first"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addNewTodo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "childViewControllers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "connectionButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "connectionButtonReference"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "identifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showConnectivityAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "todoTableViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s22_RandomAccessIndexableP", "first"]
+- !private ["s26_RangeReplaceableIndexableP", "first"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "SC6CGRectV"
+- !private "SC6CGSizeV"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "7TodoApp23ContainerViewControllerC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "So31MCBrowserViewControllerDelegateP"
+- !private "So17MCSessionDelegateP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "7TodoApp23ToDoTableViewControllerC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So17UIStoryboardSegueC"
+- !private "So21UITableViewControllerC"
+- !private "So21UITableViewDataSourceP"
+- !private "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers/MultipeerConnectivity.apinotes"
+interface-hash: "e2c2e82d3a648e665d5f66efe72a3361"
